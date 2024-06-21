@@ -2,7 +2,7 @@
 
 ## ASSIGNMENT
 <ol>
-<li>Write 20 attack vectors of choice with Proof od code</li>
+<li>Write 20 attack vectors of choice with Proof of code</li>
 <li>List all known weird ERC20 Tokens with proof of code</li>
 </ol>
 
