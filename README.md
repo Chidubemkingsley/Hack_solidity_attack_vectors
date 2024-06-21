@@ -1,6 +1,7 @@
 # Guild Smart Contract Auditing Assignment For Week 1
 
-<ol>Assignment
+## ASSIGNMENT
+<ol>
 <li>Write 20 attack vectors of choice with Proof od code</li>
 <li>List all known weird ERC20 Tokens with proof of code</li>
 </ol>
